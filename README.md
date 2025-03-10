@@ -1,8 +1,6 @@
-<h1 align="left">Welcome to my GitHub!</h1>
+### Welcome to my GitHub!
 
-###
-
-<div align="center">
+<div align="center" style="border: 1px solid gray">
   <img height="200" src="/cover.png"  />
 </div>
 
@@ -10,13 +8,13 @@
 
 I specialize in building dynamic, responsive, and user-friendly **web applications** using the **MERN stack**. With a strong eye for detail, I always prioritize **security**, **functionality**, and **performance** in every project I deliver.
 
-### Current activities
+#### Current activities
 
 - **Job Hunting:** Actively pursuing a fresher frontend developer role to launch my career.
 - **Portfolio Development:** Building a personal portfolio to showcase my skills and enhance my expertise.
 - **Tech Exploration:** Interested in frameworks like Socket.io to create real-time chat or video-calling applications.
 
-### Skills & Tools
+#### Skills & Tools
 
 
 >  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -40,7 +38,6 @@ I specialize in building dynamic, responsive, and user-friendly **web applicatio
 >  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 
 
-###
 
 <br clear="both">
 
