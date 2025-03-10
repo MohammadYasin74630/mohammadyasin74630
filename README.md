@@ -22,27 +22,27 @@ I specialize in building dynamic, responsive, and user-friendly **web applicatio
 
 ### Skills & Tools
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-</div>
+
+>  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+>  <img width="12" />
+>  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+>  <img width="12" />
+>  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+>  <img width="12" />
+>  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+>  <img width="12" />
+>  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+>  <img width="12" />
+>  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+>  <img width="12" />
+>  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+>  <img width="12" />
+>  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+>  <img width="12" />
+>  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+>  <img width="12" />
+>  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+
 
 ###
 
