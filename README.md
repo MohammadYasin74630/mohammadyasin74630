@@ -6,11 +6,7 @@
   <img height="200" src="/cover.png"  />
 </div>
 
-###
-
-<h2 align="left">Iam from Bangladesh</h2>
-
-###
+### Iam from Bangladesh
 
 I specialize in building dynamic, responsive, and user-friendly **web applications** using the **MERN stack**. With a strong eye for detail, I always prioritize **security**, **functionality**, and **performance** in every project I deliver.
 
