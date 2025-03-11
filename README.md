@@ -1,7 +1,7 @@
 ### Welcome to my GitHub!
 
 <div align="center" height="200">
-  <img src="/textStudio-text-animation.gif"  />
+  <img src="/textStudio-text-animation(1).gif"  />
 </div>
 
 ### From Bangladesh
