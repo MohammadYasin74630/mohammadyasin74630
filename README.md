@@ -1,7 +1,9 @@
 ### Welcome to my GitHub!
 
 <div align="center" height="200">
-  <img src="/textStudio-text-animation(1).gif"  />
+  <a href="https://github.com/mohammadyasin74630">
+    <img src="/textStudio-text-animation(1).gif"  />
+  </a>
 </div>
 
 ### My Work & Passion
