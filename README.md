@@ -18,25 +18,16 @@ I specialize in building dynamic, responsive, and user-friendly **web applicatio
 
 #### Skills & Tools
 
->  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
->  <img width="12" />
->  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
->  <img width="12" />
->  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
->  <img width="12" />
->  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
->  <img width="12" />
->  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
->  <img width="12" />
->  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
->  <img width="12" />
->  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
->  <img width="12" />
->  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
->  <img width="12" />
->  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
->  <img width="12" />
->  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+> <a href="https://react.dev/"> <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" /> </a>
+> <a href="https://expressjs.com/"> <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  /> </a>
+> <a href="https://www.mongodb.com/"> <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  /> </a>
+> <a href="https://firebase.google.com/"> <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  /> </a>
+> <a href="https://git-scm.com/"> <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  /> </a>
+> <a href="https://github.com/"> <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /> </a>
+> <a href="https://code.visualstudio.com/"> <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  /> </a>
+> <a href="https://www.postman.com/"> <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  /> </a>
+> <a href="https://www.netlify.com/"> <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  /> </a>
+> <a href="https://vercel.com/"> <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  /> </a>
 
 
 <br clear="both">
