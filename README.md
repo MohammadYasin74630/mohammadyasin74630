@@ -14,9 +14,7 @@ I specialize in building dynamic, responsive, and user-friendly **web applicatio
 - **Portfolio Development:** Building a personal portfolio to showcase my skills and enhance my expertise.
 - **Tech Exploration:** Interested in frameworks like Socket.io to create real-time chat or video-calling applications.
 
-<br clear="both">
-
-#### SKILLS & TOOLS
+#### Skills & Tools
 
 >  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 >  <img width="12" />
@@ -40,6 +38,7 @@ I specialize in building dynamic, responsive, and user-friendly **web applicatio
 
 
 
+<br clear="both">
 <br clear="both">
 
 <div align="center">
