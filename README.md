@@ -1,10 +1,10 @@
 ### Welcome to my GitHub!
 
-<div align="center" style="border: 1px solid gray">
-  <img src="/cover.png"  />
+<div align="center" height="200">
+  <img src="/textStudio-text-animation.gif"  />
 </div>
 
-### Iam from Bangladesh
+### From Bangladesh
 
 I specialize in building dynamic, responsive, and user-friendly **web applications** using the **MERN stack**. With a strong eye for detail, I always prioritize **security**, **functionality**, and **performance** in every project I deliver.
 
