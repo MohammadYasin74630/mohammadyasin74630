@@ -37,8 +37,6 @@ I specialize in building dynamic, responsive, and user-friendly **web applicatio
 >  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 
 
-
-<br clear="both">
 <br clear="both">
 
 <div align="center">
