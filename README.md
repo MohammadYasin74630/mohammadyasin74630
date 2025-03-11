@@ -18,16 +18,17 @@ I specialize in building dynamic, responsive, and user-friendly **web applicatio
 
 #### Skills & Tools
 
-> [<img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"/>](https://react.dev/)
-> [<img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"/>](https://expressjs.com/)
-> [<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"/>](https://www.mongodb.com/)
-> [<img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"/>](https://firebase.google.com/)
-> [<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>](https://git-scm.com/)
-> [<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"/>](https://github.com/)
-> [<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>](https://code.visualstudio.com/)
-> [<img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"/>](https://www.postman.com/)
-> [<img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"/>](https://www.netlify.com/)
-> [<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"/>](https://vercel.com/)
+> [<img src="/skill icons/react.svg" height="40" alt="react logo"/>](https://react.dev/)
+> [<img src="/skill icons/express.svg" height="40" alt="express logo"/>](https://expressjs.com/)
+> [<img src="/skill icons/mongodb.svg" height="40" alt="mongodb logo"/>](https://www.mongodb.com/)
+> [<img src="/skill icons/firebase.svg" height="40" alt="firebase logo"/>](https://firebase.google.com/)
+> [<img src="/skill icons/jwt.svg" height="40" alt="jwt logo"/>](https://jwt.io/)
+> [<img src="/skill icons/git.svg" height="40" alt="git logo"/>](https://git-scm.com/)
+> [<img src="/skill icons/github.svg" height="40" alt="github logo"/>](https://github.com/)
+> [<img src="/skill icons/vscode.svg" height="40" alt="vscode logo"/>](https://code.visualstudio.com/)
+> [<img src="/skill icons/postman.svg" height="40" alt="postman logo"/>](https://www.postman.com/)
+> [<img src="/skill icons/netlify.svg" height="40" alt="netlify logo"/>](https://www.netlify.com/)
+> [<img src="/skill icons/vercel.svg" height="40" alt="vercel logo"/>](https://vercel.com/)
 
 
 <br clear="both">
