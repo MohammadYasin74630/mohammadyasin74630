@@ -4,7 +4,7 @@
   <img src="/textStudio-text-animation(1).gif"  />
 </div>
 
-### From Bangladesh
+### My Work & Passion
 
 I specialize in building dynamic, responsive, and user-friendly **web applications** using the **MERN stack**. With a strong eye for detail, I always prioritize **security**, **functionality**, and **performance** in every project I deliver.
 
