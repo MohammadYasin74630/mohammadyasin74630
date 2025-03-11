@@ -1,7 +1,7 @@
 ### Welcome to my GitHub!
 
 <div align="center" style="border: 1px solid gray">
-  <img height="200" src="/cover.png"  />
+  <img src="/cover.png"  />
 </div>
 
 ### Iam from Bangladesh
