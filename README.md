@@ -37,3 +37,7 @@ I specialize in building dynamic, responsive, and user-friendly **web applicatio
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadyasin74630&radius=16&theme=react&area=true&order=5" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=mohammadyasin74630&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" alt="trophy graph"  />
 </div>
+
+<!-- [typing gif](https://readme-typing-svg.demolab.com/demo/) -->
+<!-- [Badge](https://ileriayo.github.io/markdown-badges/) -->
+<!-- [b/w icons](https://simpleicons.org/) -->
