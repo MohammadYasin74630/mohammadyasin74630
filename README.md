@@ -13,7 +13,7 @@ I specialize in building dynamic, responsive, and user-friendly **web applicatio
 #### Current activities
 
 - **Job Hunting:** Actively pursuing a fresher frontend developer role to launch my career.
-- **Resume Building:** Creating a personal CV to highlight my skills, expertise, and experience.
+- **Skill Improvement:** Watching a tech tutorial or reading a blog on web services
 - **Tech Exploration:** Interested in frameworks like Socket.io to create real-time chat or video-calling applications.
 
 #### Skills & Tools
